@@ -1,0 +1,10 @@
+Billy Joe|Meadows Ln, Houston, TX 23043|12
+Hayley Williams|Willow Meadows Ln, Houston, TX 23043|3
+Buddy Guy|Willow Flower Ln, Baton Rouge, LA 24687|95
+Dave Bowman|2834 Nutter Street, Holt, MO 64048|5
+Tom Cooper|1569 Tecumsah Lane, Waterloo, IA 50703|8
+Malcolm Reynolds|03K64 Persephone, New Burbank, OS 220071|10
+Ellen Ripley|24687 Great Leap Way, Olympia, LU 45768|25
+Emmett Brown|1640 Riverside Dr., Hill Valley, CA 91905|40
+Otto Maddox|12468 Jolly Rancher Dr., Houston, TX 54678|12
+Dexter Rutecki|7908 Snow St., Aspen, CO 81611|90

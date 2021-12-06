@@ -1,0 +1,6 @@
+Jim Halpert|1618 Pinemont, Scranton, PA 54678
+Herman Munster|1313 Mockingbird Way, New York, NY 46578
+John Smith|55 West 81st Street, 11th Floor New York, NY 46578
+Wayne Campbell|123 Test Street, Houston, TX 77546
+Garth Algar|515 Arnold St., Aurora, IL 246783
+Jim Johnson|456 Tupelo Ave, Clear Lake, TX 77059
